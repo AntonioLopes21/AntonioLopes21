@@ -11,7 +11,20 @@
 💻 Currently pursuing a degree in Systems Analysis and Development at Porto Digital.
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ⚙️ GitHub Analytics<br>
 <a href="https://github.com/AntonioLopes21"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> 
