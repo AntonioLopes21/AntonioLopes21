@@ -1,4 +1,4 @@
-<img align="right" height="550px" src="https://raw.githubusercontent.com/gist/AntonioLopes21/a2fb6ebd4ac57f3aae4a1eb87d1faef9/raw/460ddbdc8e87a128f8994ac1f3dd429e0a5e7859/gistfile1.svg"/>
+<img align="right" height="350px" src="https://raw.githubusercontent.com/gist/AntonioLopes21/a2fb6ebd4ac57f3aae4a1eb87d1faef9/raw/460ddbdc8e87a128f8994ac1f3dd429e0a5e7859/gistfile1.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" z-index = 1>, I'm Antônio</h1>
 
